@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anerisheth1
-- 👀 I’m interested in machine learning and battery technology.
-- 🌱 I’m currently learning about optimization and data-centric AI!
+- 👀 I’m interested in machine learning and robotics.
+- 🌱 I’m currently learning about optimization and autonomous vehicles!
 - 💞️ I’m looking to collaborate on research and projects that use machine learning and AI to tackle energy challenges!
 - 📫 How to reach me 
 -   email: anerisheth@berkeley.edu

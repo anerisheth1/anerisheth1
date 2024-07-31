@@ -5,6 +5,7 @@
 - 📫 How to reach me 
 -   email: anerisheth@berkeley.edu
 -   linkedin: [anerisheth1] (https://linkedin.com/in/anerisheth1/)
+-   [linkedin: anerisheth1](https://linkedin.com/in/anerisheth1/)
 
 <!---
 anerisheth1/anerisheth1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
